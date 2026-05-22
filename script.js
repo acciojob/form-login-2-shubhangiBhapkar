@@ -1,4 +1,4 @@
-const form = document.querySelectorAll("#sign-up");
+const form = document.querySelector("#sign-up");
 const para = document.querySelectorAll("#op");
 
 form.addEventListener("submit", (event) => {
